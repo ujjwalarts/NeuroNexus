@@ -1,3 +1,2 @@
-# quiz_app_tutorial
+# Just launched my new app: a fun multiple-choice quiz! 📱💡
 
-A new Flutter project.
